@@ -138,3 +138,5 @@ The key word here is __OPTIONAL__. Don't want to use type definitions when you a
 
 [**Demo #26** (Optional/Extra Credit)](http://plnkr.co/edit/Uk4H1sJLxl4WWCrWZoZh?p=info target="_blank")
 -- FETCHING DATA FROM FIREBASE NETWORK "REAL-TIME" DATA SUBSCRIPTION (NO HTTP, NO REST API)
+
+COMMENTS, BUGS, SUGGESTIONS, Etc.?  email robert.polevoi@gmail.com
