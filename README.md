@@ -66,11 +66,11 @@ The key word here is __OPTIONAL__. Don't want to use type definitions when you a
 -- SIMPLEST POSSIBLE COMPONENT (NON-DYNAMIC)
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo1)
 
-[**Demo #2**](http://plnkr.co/edit/NGKu8NABbTi5ahCA1Rfu?p=info)
+[**Plunker Demo #2**](http://plnkr.co/edit/NGKu8NABbTi5ahCA1Rfu?p=info)
 -- SIMPLEST POSSIBLE COMPONENT (DYNAMIC)
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo2)
 
-[**Demo #3**](http://plnkr.co/edit/rya1huZwrmBDCjmXt9YB?p=info)
+[**Plunker Demo #3**](http://plnkr.co/edit/rya1huZwrmBDCjmXt9YB?p=info)
 -- PROPERTY BINDING (COMPONENT TO DOM)
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo3)
 
@@ -78,91 +78,91 @@ The key word here is __OPTIONAL__. Don't want to use type definitions when you a
 -- EVENT BINDING (DOM TO COMPONENT)
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo4)
 
-[**Demo #5**](http://plnkr.co/edit/DvLyixMC6JialnAO1wwE?p=info)
+[**Plunker Demo #5**](http://plnkr.co/edit/DvLyixMC6JialnAO1wwE?p=info)
 -- CONDITIONAL DISPLAY WITH *ngIf DIRECTIVE
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo5)
 
-[**Demo #6**](http://plnkr.co/edit/ab2z8SWgN3L3gOhDyTKm?p=info)
+[**Plunker Demo #6**](http://plnkr.co/edit/ab2z8SWgN3L3gOhDyTKm?p=info)
 -- DISPLAYING LISTS WITH *ngFor "REPEATER"
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo6)
 
-[**Demo #7**](http://plnkr.co/edit/ba19hRRCJnt4tuMtlqeb?p=info)
+[**Plunker Demo #7**](http://plnkr.co/edit/ba19hRRCJnt4tuMtlqeb?p=info)
 -- SELECTING AN ITEM FROM *ngFor LIST WITH EVENT BINDING
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo7)
 
-[**Demo #8**](http://plnkr.co/edit/hDdvmwAlbndB4tLDBbJK?p=info)
+[**Plunker Demo #8**](http://plnkr.co/edit/hDdvmwAlbndB4tLDBbJK?p=info)
 -- PARENT-CHILD COMPONENT HIERARCHY (SIMPLEST CASE)
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo8)
 
-[**Demo #9**](http://plnkr.co/edit/hWmGqwVcDzppLItjfRxc?p=info)
+[**Plunker Demo #9**](http://plnkr.co/edit/hWmGqwVcDzppLItjfRxc?p=info)
 -- PARENT-CHILD PROPERTY BINDING THRU @Input
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo9)
 
-[**Demo #10**](http://plnkr.co/edit/KAdnfBVIxf8UPEpR4Psy?p=info)
+[**Plunker Demo #10**](http://plnkr.co/edit/KAdnfBVIxf8UPEpR4Psy?p=info)
 -- CHILD-PARENT EVENT BINDINg THRU @Output (EventEmitter)
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo10)
 
-[**Demo #11**](http://plnkr.co/edit/Dvw9v1R1XR5gxzIuPD5x?p=info)
+[**Plunker Demo #11**](http://plnkr.co/edit/Dvw9v1R1XR5gxzIuPD5x?p=info)
 -- PARENT CALLS CHILD METHODS THRU LOCAL TEMPLATE VARIABLE (#)
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo11)
 
-[**Demo #12**](http://plnkr.co/edit/lLJW4EodgMAdSTFPrdmf?p=info)
+[**Plunker Demo #12**](http://plnkr.co/edit/lLJW4EodgMAdSTFPrdmf?p=info)
 -- *ngFor LIST DISPLAY OF CUSTOM CHILD COMPONENTS
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo12)
 
-[**Demo #13**](http://plnkr.co/edit/V9n4MUFNH3f72ZWtrEgR?p=info)
+[**Plunker Demo #13**](http://plnkr.co/edit/V9n4MUFNH3f72ZWtrEgR?p=info)
 -- INTERACTIVE SELECTION FROM CHILD COMPONENTS IN *ngFor LIST (EVENT PAYLOADS)
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo13)
 
-[**Demo #14**](http://plnkr.co/edit/xmTaGvJwYGnOOcY2Movv?p=info)
+[**Plunker Demo #14**](http://plnkr.co/edit/xmTaGvJwYGnOOcY2Movv?p=info)
 -- APPLICATION STORE, SERVICE CLASSES & DEPENDENCY INJECTION (DI)
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo14)
 
-[**Demo #15**](http://plnkr.co/edit/B0BUeGa63htHQcbPTfFK?p=info)
+[**Plunker Demo #15**](http://plnkr.co/edit/B0BUeGa63htHQcbPTfFK?p=info)
 --RxJS SUBJECTS, OBSERVABLES & DATA STREAMS ("PUSHING" DATA EVENTS)
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo15)
 
-[**Demo #16**](http://plnkr.co/edit/fRbQM1L5K7h3rexEbbVF?p=info)
+[**Plunker Demo #16**](http://plnkr.co/edit/fRbQM1L5K7h3rexEbbVF?p=info)
 -- TwO-WAY DATA BINDING BETWEEN COMPONENT PROPERTIES AND UI CONTROLS
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo16)
 
-[**Demo #17**](http://plnkr.co/edit/3T6ru9k0Q7btqtuU4gBk?p=info)
+[**Plunker Demo #17**](http://plnkr.co/edit/3T6ru9k0Q7btqtuU4gBk?p=info)
 -- INTRO TO ANGULAR 2 FORMS
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo17)
 
-[**Demo #18**](http://plnkr.co/edit/qNEyPH7u6TFCjHQt2A11?p=info)
+[**Plunker Demo #18**](http://plnkr.co/edit/qNEyPH7u6TFCjHQt2A11?p=info)
 -- INTERACTIVE ADD AND DELETE OF *ngFor LIST ITEMS
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo18)
 
-[**Demo #19**](http://plnkr.co/edit/ZexLiBgDhhNeXmGKAqRe?p=info)
+[**Plunker Demo #19**](http://plnkr.co/edit/ZexLiBgDhhNeXmGKAqRe?p=info)
 -- INTRODUCING "DATABASE" PERSISTENCE (DATA FETCH SERVICE)
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo19)
 
-[**Demo #20**](http://plnkr.co/edit/vvfj7SJNs0QU5crP5LuE?p=info)
+[**Plunker Demo #20**](http://plnkr.co/edit/vvfj7SJNs0QU5crP5LuE?p=info)
 --INTRO TO ROUTING and NAVIGATION
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo20)
 
-[**Demo #21**](http://plnkr.co/edit/sHRVdLRdzpWnKedTmhkc?p=info)
+[**Plunker Demo #21**](http://plnkr.co/edit/sHRVdLRdzpWnKedTmhkc?p=info)
 -- DATA STORE TO INTEGRATE ROUTED APPLICATION
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo21)
 
-[**Demo #22**](http://plnkr.co/edit/duxMpePu830kL8PWaBky?p=info)
+[**Plunker Demo #22**](http://plnkr.co/edit/duxMpePu830kL8PWaBky?p=info)
 -- USING URL PATH ROUTE PARAMETERS TO FETCH SELECTED DATA OBJECT
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo22)
 
-[**Demo #23**](http://plnkr.co/edit/ROGwUMyApPMSY6y84Rpc?p=info)
+[**Plunker Demo #23**](http://plnkr.co/edit/ROGwUMyApPMSY6y84Rpc?p=info)
 -- SUBSCRIBING TO A ROUTE.PARAMS OBSERVABLE (DATA STREAM)
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo23)
 
-[**Demo #24**](http://plnkr.co/edit/SiSzC0qpn6ZIwnkmTXV9?p=info)
+[**Plunker Demo #24**](http://plnkr.co/edit/SiSzC0qpn6ZIwnkmTXV9?p=info)
 -- FETCHING DATA FROM "FAKE" HTTP RESTful "IN-MEMORY" BACKEND
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo24)
 
-[**Demo #25** (Optional/Extra Credit)](http://plnkr.co/edit/H01XXpEztaaehMNBhOZw?p=info)
+[**Plunker Demo #25** (Optional/Extra Credit)](http://plnkr.co/edit/H01XXpEztaaehMNBhOZw?p=info)
 -- FETCHING DATA FROM FIREBASE HTTP NETWORK BACKEND (RESTful-ish)
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo25)
 
-[**Demo #26** (Optional/Extra Credit)](http://plnkr.co/edit/Uk4H1sJLxl4WWCrWZoZh?p=info)
+[**Plunker Demo #26** (Optional/Extra Credit)](http://plnkr.co/edit/Uk4H1sJLxl4WWCrWZoZh?p=info)
 -- FETCHING DATA FROM FIREBASE NETWORK "REAL-TIME" DATA SUBSCRIPTION (NO HTTP, NO REST API)
 -- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo26)
 
