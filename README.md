@@ -63,7 +63,7 @@ The key word here is __OPTIONAL__. Don't want to use type definitions when you a
 
 [**Plunker Demo #1**](http://plnkr.co/edit/4A4juKPbXMrWzObNNal1)
 -- SIMPLEST POSSIBLE COMPONENT (NON-DYNAMIC)
-[**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo1)
+-- [**Github Repo**](https://github.com/rpolevoi/ngMind-beginner.mind_Demo1)
 
 [**Demo #2**](http://plnkr.co/edit/NGKu8NABbTi5ahCA1Rfu?p=info target="_blank")
 -- SIMPLEST POSSIBLE COMPONENT (DYNAMIC)
