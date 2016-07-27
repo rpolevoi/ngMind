@@ -4,7 +4,7 @@ A __progressive course__ of 26 __ANGULAR 2__ plunker demos to master core integr
 
 Complete list of demo-links is at the bottom of this doc.
 
-(You can jump to first demo here below, but *please* try reading this Intro doc first -- it's well worth 10 minutes):
+(You can jump to first demo here below, but *please* try reading this Intro doc first -- it's well worth the few minutes):
 
 [**Plunker Demo #1**](http://plnkr.co/edit/4A4juKPbXMrWzObNNal1?p=info)
 -- SIMPLEST POSSIBLE COMPONENT (NON-DYNAMIC)
@@ -12,9 +12,9 @@ Complete list of demo-links is at the bottom of this doc.
 
 ###INTRO
 
-The title of these demos honors Shenryu Suzuki's "Zen Mind, Beginner Mind," in which the author makes a priceless observation, uniquely valuable for those approaching Angular 2. He stresses willingness (even *eagerness*) to cast off all one's calcified achievements and proud expertise, and to embrace the naked innocence of ignorance for its unparalleled creative energies. *“In the beginner’s mind"* he says famously, *"there are many possibilities, but in the expert’s there are few.”* This insight is traceable to ancient Chinese thought, where Confucius stressed daily renewal and Mencius exhorted unrelenting efforts to recover our "original nature" which he so beautifully compares with the fresh, life-giving air of early dawn.
+The title of these demos honors Shenryu Suzuki's "Zen Mind, Beginner Mind," where the author makes a famous observation, uniquely valuable for those approaching Angular 2. *“In the beginner’s mind"* he says, *"there are many possibilities, but in the expert’s there are few.”*
 
-Speaking practically, there's an arguably some genuine advantage for the novice developer when learning Angular 2. Angular 2 is revolutionary at many fundamental conceptual levels, but the experienced developer cannot help but filter it through many pre-existing constructs. The worst case may well be proficiency in Angular 1 because it is entirely counterproductive to build an Angular 2 mindset atop the karma of deep Angular 1 expertise. Angular 2 is a whole new animal, best approached with the most spacious possible mentality. But even a snail can be smart enough to shed its shell when it becomes confining.
+ Angular 2 is revolutionary at many fundamental conceptual levels, but the experienced developer cannot help but filter it through many pre-existing constructs. Angular 2 is best approached with the most spacious possible mentality, and that means a certain deliberate humbleness.
 
 ###WHY LEARN ANGULAR 2?
 
