@@ -4,7 +4,7 @@ A __progressive course__ of 26 __ANGULAR 2__ plunker demos to master core integr
 
 Complete list of demo-links is at the bottom of this doc.
 
-(You can jump to first demo here below, but *please* try reading this Intro doc first -- it's well worth the few minutes):
+(You can jump to first demo here below, but *please* try reading this Intro doc first -- it's well worth the time):
 
 [**Plunker Demo #1**](http://plnkr.co/edit/4A4juKPbXMrWzObNNal1?p=info)
 -- SIMPLEST POSSIBLE COMPONENT (NON-DYNAMIC)
@@ -18,7 +18,7 @@ The title of these demos honors Shenryu Suzuki's "Zen Mind, Beginner Mind," wher
 
 ###WHY LEARN ANGULAR 2?
 
-Angular 2 is heavy lifting for anyone, however ponderous their cerebral cortex. In fact, at the start it can feel like climbing a wall of ice. Thus it's fair to ask why one should take the time and risk to study it with the intensity that it demands. If the answer here seems a little lengthy, consider the importance of the question.
+Angular 2 is heavy lifting for anyone, however ponderous their cerebral cortex. In fact, at the start it can feel like climbing a wall of ice. Thus it's fair to ask why one should take the time and risk to study it with the intensity that it demands. If the answer here seems lengthy, consider the importance of the question.
 
 Angular 2 is a __very big thing__. Bigger than Angular 1, bigger than Rails, bigger than React. No mere framework, but a __platform__. This means that Angular 2 must be compared to the Windows operating system or, more accurately, to Java, as creating a fundamental technological foundation for new kinds of development, with a potential lifespan measured in decades. Like both Windows and Java, the association with a dominant tech enterprise is crucial. It's simply impossible that Google will fail to support and press forward with the Angular project, long past version 2. And its motives for doing so are more powerful than mere *noblesse oblige* or good developer relations.
 
@@ -42,19 +42,19 @@ This course of study was developed by someone who has struggled hard to learn An
 
 3. The individual instructive sections in the Angular docs __Basics__ and __Developer's Guide__ are properly focused on specific topics, and are great once one knows one's way around. But this assumes some general “30,000 ft” *gestalt* that separates the forest from the trees.
 
-My purpose here has been to provide the __graduated, yet holistic picture__ that I wish I had while spending weeks and months getting the hang of things. The idea is to move progressively through the basic concepts, because an integrated sense of these concepts, even in a shallow way, is more important for the beginner that a strong grasp of any one of them. Our goal is to sense how Angular hangs together and provides something far more powerful and interesting than the sum of its manifold parts.
+My purpose here has been to provide the __graduated, yet holistic picture__ that I wish I had. Our goal is to sense how Angular 2 hangs together and provides something far more powerful and interesting than the sum of its manifold parts.
 
-My personal advice is to get everything you can out of the demos themselves --  __pouring over the code before reading any of the attached explanations__ revealed by the __info__ button in the rightmost side panel. Only the files in the __app/__ folders will matter until much later the in sequence of demos. The boilerplate setup files rarely change from demo to demo, and when they do, this will be clearly stressed in the explanatory text.
+My personal advice is to get everything you can out of the demos themselves --  __pouring over the code before reading any of the attached explanations__ revealed by the __info__ button in the right-side panel. Only the files in the __app/__ folders will matter until much later the in sequence of demos. The boilerplate setup files rarely change from demo to demo, and when they do, this will be clearly stressed in the explanatory text.
 
-I have provided very little commenting within the files. My motive is to give you the opportunity to figure out as much as you can from the bare code before turning to the explanations. I find that once a comment tells me what I'm supposed to think about some line or block of code, or what it’s supposed to do, I don't bother to think it through myself. That's fine for knowledge-sharing when developing in teams (or just refeshing your own memory), but it's a barrier to true "got it" learning.
+I have provided very little commenting within the files. I find that once a comment tells me what I'm supposed to think about some line of code, I don't bother to think it through myself. That's fine for knowledge-sharing when developing in teams (or just refeshing your own memory), but it can be a barrier to true learning.
 
 ###TYPESCRIPT
 
-Despite what the Angular 2 docs say, using straight JavaScript (much less Dart) to develop in Angular is ridiculous. Angular 2 was designed to be written in TypeScript, and nothing else makes sense. So what is TypeScript? And does it really mean having to learn a new language or dialect in order to use Angular 2?
+ Angular 2 was designed to be written in TypeScript. So what is TypeScript? And does it really mean having to learn a new language or dialect in order to use Angular 2?
 
 TypeScript is fantastic. It allows you to write JavaScript as though all of the expected and desired extensions to that language were already in effect, and then __transpiles (compiles)__ your code into EcmaScript 5 so that all current browsers understand it. Angular 2 uses, right now, so much of what is sure to be the future of the official JavaScript (EcmaScript) language, that TypeScript is essential. Just being able to write classes as real classes, and not as mere JavaScript constructors is enough, but there is much, much more.
 
-There are other transpilers out there that are well-respected. The advantage for TypeScript is that it combines transpiling with __OPTIONAL__ type declarations. It is a final mark of maturity for JavaScript development that the loose-typing character of the language is no longer considered an advantage, at least in serious application development. It should __matter__ whether a variable (or an argument or return value) is a __string__ as opposed to a __number__ or a __boolean__, and we should be able to declare it so, both for greater comprehension when reading code and to allow the compiler to catch type conflicts (such as where a __string__ is assigned to a variable declared as an __array__).
+TypeScript combines this expanded JavaScript langauge with __OPTIONAL__ type declarations. It is a final mark of maturity for JavaScript development that the loose-typing character of the language is no longer considered an advantage, at least in serious application development. It should __matter__ whether a variable (or an argument or return value) is a __string__ as opposed to a __number__ or a __boolean__, and we should be able to declare it so, both for greater comprehension when reading code and to allow the compiler to catch type conflicts (such as where a __string__ is assigned to a variable declared as an __array__).
 
 The key word here is __OPTIONAL__. Don't want to use type definitions when you are just getting started with Angular 2? No problem! In fact, I agree wholeheartedly. Thus these demos only begin to introduce type declarations after a while, and only selectively, to introduce their value as it becomes obvious. Our primary goal is to learn some pretty challenging general Angular 2 concepts, and type definitions will add only clutter our code with unnecessary distractions at the start.
 
